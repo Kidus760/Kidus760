@@ -99,13 +99,6 @@ current_status: "Building projects and learning every day"
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kidus760&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" width="100%" />
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
@@ -115,17 +108,6 @@ current_status: "Building projects and learning every day"
 
 <br/>
 
-## 🐍 Watch My Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kidus760/kidus760/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kidus760/kidus760/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kidus760/kidus760/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
 
 ## 💡 Random Dev Quote
 
